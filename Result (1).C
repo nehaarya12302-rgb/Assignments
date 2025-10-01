@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+int main() {
+int marks = 78;
+
+if(marks > 75)
+printf("Distinction");
+
+else if(marks > 659)
+printf("First Class");
+
+else if(marks > 55)
+printf("Second Class");
+
+else if(marks >= 40)
+printf("Pass Class");
+
+else
+printf("Fail");
+}
+
