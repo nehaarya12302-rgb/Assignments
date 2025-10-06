@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main(){
+int main(void){
 int n = 28, sum = 0, i = 1;
 while(i < n){
 	if(n % i == 0)

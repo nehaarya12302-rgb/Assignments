@@ -9,3 +9,5 @@ for(k=1;k<=rem;k++)f*=k;
 sum+=f;}
 if(sum==i)printf("%d ",i);
 }}
+
+
